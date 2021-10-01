@@ -85,7 +85,7 @@
 
 #chatBotConversationLoadingBar {
     background-color: darkcyan;
-    height: 2px;
+    height: 2.1px;
     width: 0;
 }
 
@@ -99,7 +99,7 @@
 
 @keyframes appear {
     from {
-        opacity: 0;
+        opacity: 0.9;
     }
 
     to {
